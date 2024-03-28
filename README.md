@@ -1,1 +1,1 @@
-# simple-analyze
+Welcome to my Data Visualization Explorations repository! This repository hosts a collection of projects and experiments focused on visualizing data in various forms. The main goal is to gain insights, understand patterns, and tell compelling stories through data.
